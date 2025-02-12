@@ -42,37 +42,7 @@ Quest App is an interactive platform where users can create, participate in, and
 
 ## Installation & Setup
 
-### Backend
-
-Clone the repository:
-```sh
-git clone https://github.com/yourusername/quest-app.git
-cd quest-app/backend
-```
-
-Configure environment variables in `.env`.
-
-Run the application using Maven:
-```sh
-mvn spring-boot:run
-```
-
-### Frontend
-
-Navigate to the frontend folder:
-```sh
-cd ../frontend
-```
-
-Install dependencies:
-```sh
-npm install
-```
-
-Start the development server:
-```sh
-npm run dev
-```
+URL : http://team-quests.surge.sh/
 
 ## API Endpoints
 
